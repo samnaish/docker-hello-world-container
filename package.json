@@ -1,0 +1,14 @@
+{
+  "name": "docker-hello-world",
+  "version": "1.0.0",
+  "description": "A hello world program with Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sam Naish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
